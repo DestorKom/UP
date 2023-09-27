@@ -1,0 +1,6 @@
+E:\4kurs\yp\Lab5\ForSQLClass\ForSQLClass\bin\Debug\ForSQLClass.dll
+E:\4kurs\yp\Lab5\ForSQLClass\ForSQLClass\bin\Debug\ForSQLClass.pdb
+E:\4kurs\yp\Lab5\ForSQLClass\ForSQLClass\obj\Debug\ForSQLClass.csproj.AssemblyReference.cache
+E:\4kurs\yp\Lab5\ForSQLClass\ForSQLClass\obj\Debug\ForSQLClass.csproj.CoreCompileInputs.cache
+E:\4kurs\yp\Lab5\ForSQLClass\ForSQLClass\obj\Debug\ForSQLClass.dll
+E:\4kurs\yp\Lab5\ForSQLClass\ForSQLClass\obj\Debug\ForSQLClass.pdb
